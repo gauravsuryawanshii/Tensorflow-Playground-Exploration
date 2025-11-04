@@ -44,4 +44,3 @@ This work is shared under the **MIT License**, enabling open educational use wit
 
 ### Author
 **Gaurav Suryawanshi**  
-Conducted as part of the **CYBERSEC 520 coursework** to investigate and demonstrate foundational deep learning principles through interactive neural network experimentation [5].
